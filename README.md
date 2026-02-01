@@ -1,4 +1,4 @@
-![logo](https://github.com/ghulamqasimali1214-web/ghulamqasimali1214-web/blob/main/Wellpepare.jpg)
+![logo](https://github.com/ghulamqasimali1214-web/ghulamqasimali1214-web/commit/90c8af983a0df3b1ef54b1b882c4c4d87fce3e2c)
 <h1 align="center">Hi 👋, I'm Ghulam Qasim Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
